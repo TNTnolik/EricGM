@@ -36,7 +36,7 @@ $(document).ready(function() {
 });
 
 function GameDetails( servername, serverurl, mapname, maxplayers, steamid, gamemode, volume, language ) {
-	if(steamid==76561198263598689){
+	if(steamid==76561198094687585){
 		$("#headIMG").append("<h1 style="color:#000">"+servername+"</h1>");
 	}
 }
